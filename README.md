@@ -1,1 +1,1 @@
-This is me adding extra describtion to the README.md in order to give some more contex about this project.
+I am editing the README file. Adding some more details about the project description.
